@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@ngrx/store": "^14.0.2",
+    "moment": "^2.29.4"
+  }
+}
